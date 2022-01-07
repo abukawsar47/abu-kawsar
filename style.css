@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+	font-weight: 900;
+}
+h2 {
+    font-size: 40px;
+}
+h4 {
+	font-size: 30px;
+	font-weight: 900;
+}
+p {
+	text-align: justify;
+}
+section {
+	margin: 50px 0;
+}
+img {
+	width: 100%;
+}
+.main-btn {
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 600;
+	padding: 2% 6%;
+	background-color: rgb(236, 115, 208);
+	border-radius: 5px;
+	color: #fff;
+	transition: .4s;
+	display: inline-block;
+	text-transform: uppercase;
+	margin-top: 1%;
+}
+.main-btn:hover {
+	background-color: rgb(148, 141, 234);
+	color: #fff;
+}
+.icon {
+	color: rgb(236, 115, 208);
+	font-size: 40px;
+	transition: .5s;
+}
+.icon:hover {
+	color: rgb(148, 141, 234);
+}
+.m-5p {
+	margin: 5%;
+}
+.p-5p {
+	padding: 5%;
+}
+.mb-3p {
+	margin-bottom: 3%;
+}
+.mr-3p {
+	margin-right: 3%;
+}
+
+.lite-pink{
+	color: rgb(236, 115, 208);
+}
+/* banner part s */
+.section-img {
+	border-radius: 30px;
+	box-shadow: 0px 0px 20px gray;
+}
+/* banner part e */
