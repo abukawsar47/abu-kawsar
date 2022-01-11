@@ -1,6 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+	background-color: #1e1e1e;
+	color: #fff;
 }
 h1 {
     font-size: 50px;
@@ -17,7 +19,7 @@ p {
 	text-align: justify;
 }
 section {
-	margin: 50px 0;
+	margin: 80px 0;
 }
 img {
 	width: 100%;
@@ -63,9 +65,13 @@ img {
 .lite-pink{
 	color: rgb(236, 115, 208);
 }
+header h1{
+	text-align: center;
+	margin-top: 80px;
+}
 /* banner part s */
 .section-img {
-	border-radius: 30px;
-	box-shadow: 0px 0px 20px gray;
+    border-radius: 30px;
+    box-shadow: 0px 0px 40px #ffa2e9;
 }
 /* banner part e */

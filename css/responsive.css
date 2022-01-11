@@ -15,17 +15,60 @@
 
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
-	
-	
+   section {
+      margin: 20px 0;
+   }
+   .section-content{
+      text-align: center;
+   }
+   .section-content h1 {
+      font-size: 35px;
+   }
+   .section-content h4 {
+      font-size: 25px;
+   }
+   header h1{
+      margin-top: 30px;
+      font-size: 30px;
+   }
 }
 
 /* small mobile :320px. */
 @media (max-width: 767px) {
-	
-
+   section {
+      margin: 20px 0;
+   }
+   .section-content{
+      text-align: center;
+   }
+   .section-content h1 {
+      font-size: 35px;
+   }
+   .section-content h4 {
+      font-size: 25px;
+   }
+   header h1{
+      margin-top: 30px;
+      font-size: 30px;
+   }
 }
 
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-	
+	section {
+      margin: 20px 0;
+   }
+   .section-content{
+      text-align: center;
+   }
+   .section-content h1 {
+      font-size: 35px;
+   }
+   .section-content h4 {
+      font-size: 25px;
+   }
+   header h1{
+      margin-top: 30px;
+      font-size: 40px;
+   }
 }
